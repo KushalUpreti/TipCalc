@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="percent">Percent</string>
+    <string name="total">Total</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="name1">Name1</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="name2">Name2</string>
+    <string name="textview10">Rounding</string>
+    <string name="tip">Tip</string>
+    <string name="radiobutton">None</string>
+    <string name="radiotip">Tip</string>
+    <string name="totalRadio">Total</string>
+    <string name="textviewSplit">Split Bill?</string>
+</resources>
