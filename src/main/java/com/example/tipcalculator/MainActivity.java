@@ -101,7 +101,6 @@ public class MainActivity extends AppCompatActivity implements SeekBar.OnSeekBar
         switch (parent.getItemAtPosition(position).toString()) {
             case "2 Person":
                 perPerson.setText(amt / 2 + "");
-                Toast.makeText(MainActivity.this,"2 people selected",Toast.LENGTH_LONG).show();
                 break;
             case "3 Person":
                 perPerson.setText(amt / 3 + "");
